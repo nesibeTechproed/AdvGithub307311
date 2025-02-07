@@ -22,5 +22,7 @@ public class MyClass {
         System.out.println("techpro");
 
 
+      //github değişiklik
+        
     }
 }
