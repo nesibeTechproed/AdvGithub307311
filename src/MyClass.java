@@ -22,7 +22,9 @@ public class MyClass {
         System.out.println("techpro");
 
 
+
         //dev branchinde değişiklik
+
 
     }
 }
