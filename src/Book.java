@@ -5,4 +5,7 @@ public class Book {
 
     //yeni bir field
     public String author;
+
+    //çalışmaya devam....
+    //.....tamamlandı
 }
